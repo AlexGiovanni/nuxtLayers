@@ -6,8 +6,5 @@ export default defineNuxtConfig({
   ],
   css: [
     '~/assets/css/input.css',
-  ],
-  extends: [         // Extend from an installed npm package
-    'github:AlexGiovanni/layer1', // Extend from a git repository
   ]
 })
